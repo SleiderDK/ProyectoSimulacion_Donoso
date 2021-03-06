@@ -1,0 +1,1 @@
+web: gunicorn ProyectoSimulacion2.wsgi --log-file -
